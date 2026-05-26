@@ -1,0 +1,18 @@
+{
+  "name": "gapgiang-web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "run-node": "node",
+    "scratch:read": "node scratch_read.js",
+    "scratch:update": "node scratch_update.js"
+  },
+  "devDependencies": {
+    "vercel": "^54.3.0",
+    "vite": "^8.0.12"
+  }
+}
