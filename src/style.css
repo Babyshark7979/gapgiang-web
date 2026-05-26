@@ -1440,4 +1440,96 @@ input { font-family: var(--font-body); }
   display: block;
 }
 
+/* ─── CUSTOM PILLAR ESSAYS & HIGHLIGHT CARD STYLES ─── */
+.pillar-essay-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  text-align: left;
+}
+
+.pillar-essay-list li {
+  position: relative;
+  padding-left: 20px;
+}
+
+.pillar-essay-list li::before {
+  content: "•";
+  color: var(--accent);
+  position: absolute;
+  left: 6px;
+  font-weight: bold;
+}
+
+.pillar-essay-list li a {
+  color: var(--text-primary);
+  font-size: 13.5px;
+  font-weight: 500;
+  transition: color var(--dur-fast);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: 2px;
+}
+
+.pillar-essay-list li a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+/* Highlight Card (Card 4) */
+.pillar-card.highlight-card {
+  border: 2px solid var(--accent) !important;
+  background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-elevated) 100%) !important;
+  box-shadow: 0 0 24px rgba(59, 130, 246, 0.2) !important;
+  position: relative;
+}
+
+.pillar-card.highlight-card:hover {
+  border-color: var(--accent-hover) !important;
+  box-shadow: 0 0 32px rgba(59, 130, 246, 0.35) !important;
+}
+
+.highlight-title {
+  color: var(--blue-soft) !important;
+  font-weight: 800 !important;
+}
+
+.highlight-list {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.highlight-item {
+  border-left: 2px solid var(--accent);
+  padding-left: 12px;
+  text-align: left;
+}
+
+.highlight-item h4 {
+  font-family: var(--font-title);
+  font-size: 14.5px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.highlight-item p {
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.highlight-btn {
+  margin-top: 20px;
+  width: 100%;
+  justify-content: center;
+}
+
+
 
