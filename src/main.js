@@ -423,126 +423,216 @@ const essayData = {
     tag: "Làm mới bản thân",
     date: "26 Tháng 5, 2026",
     content: `
-      <p>Một buổi sáng soi gương, tôi giật mình nhìn gã đàn ông trong đó. Vẫn khuôn mặt ấy, và quả đầu rẽ ngôi đóng băng suốt 5 năm ròng rã.</p>
+      <p>Một buổi sáng soi gương chải đầu, tôi giật mình nhìn gã trong gương: Ô hay, cái quả đầu rẽ ngôi đóng băng suốt 5 năm ròng rã không hề xê dịch một milimet!</p>
       
-      <p>Tôi nhận ra một khoảng trống (Gap) đáng sợ: **nỗi sợ bị "mòn"**.</p>
+      <p>Tôi chợt nhận ra một sự thật trần trụi: Đàn ông chúng ta thường rất giỏi "hướng ngoại". Ra đường thì chém gió vĩ mô kinh tế toàn cầu oai phong lẫm liệt, đàm phán thương vụ nghìn đô, thiết lập quan hệ ngoại giao xa gần... Thế mà ngoảnh đi ngoảnh lại, cái đầu tóc của chính mình lại mọc rêu phong từ lúc nào không biết. Chúng ta bận rộn chăm lo cho cả thế giới, nhưng lại quên mất việc "bảo dưỡng" cho chính phiên bản đời thực của mình.</p>
       
-      <p>Đàn ông chúng ta thường dành cả thanh xuân để hướng ra bên ngoài: mải mê làm kinh tế, tối ưu hóa các thương vụ, và nỗ lực thiết lập các mối quan hệ ngoại giao. Chúng ta tự hào khi chèo lái doanh nghiệp vượt qua bao giông bão ngoài xã hội. Nhưng dưới áp lực nặng nề của trách nhiệm, mấy ai nhận ra tư duy của mình đang mọc rêu mỗi ngày? Chúng ta bận rộn đến mức quên mất việc dành cho bản thân một sự quan tâm tối giản nhất.</p>
+      <p>Để mãi một kiểu tóc cũ mèm thực chất không phải là sự ổn định, mà là một sự đầu hàng thầm lặng trước cái sự tẻ nhạt của quán tính cuộc sống!</p>
       
-      <p>Để mãi một kiểu tóc cũ kỹ thực chất là một sự đầu hàng thầm lặng trước quán tính tẻ nhạt của đời sống thường nhật.</p>
+      <p>Thế là tối qua, tôi quyết định làm một cuộc "nổi loạn ôn hòa" với chi phí 0 đồng. Tôi chụp ngay quả ảnh chân dung thẳng thắn của mình, nạp thẳng vào AI và ra lệnh cho nó F5 diện mạo với 15 kiểu tóc hot trend nam từ Trung sang Hàn.</p>
       
-      <p>Tối qua, tôi quyết định thực hiện một cuộc nổi loạn ôn hòa. Tôi lấy tấm ảnh chân dung nạp vào AI, bắt nó phân tích khuôn mặt và thiết kế cho mình những kiểu tóc nam mới mẻ.</p>
+      <p>Lúc nhận kết quả từ AI, tôi suýt sặc ngụm nước vì cười bò. Có những quả tóc AI ghép trông thảm họa không chịu nổi: kiểu "mái dài ép thẳng" trông chả khác gì cái gáo dừa úp ngược lên đầu, còn kiểu "xoăn xù mì" thì y hệt như úp vội bát mì tôm Hảo Hảo lên đầu vậy! Nhưng bù lại, cũng có những quả side part 7/3 hay textured crop nhìn cũng bảnh tỏn, ra dáng tổng tài phết.</p>
       
-      <p>Nhìn những phiên bản diện mạo mới mẻ mà AI trả về, tôi ngộ ra một chân lý đơn giản: **Thay đổi kiểu tóc không đơn thuần chỉ là việc cắt tóc. Đó là một nguồn cảm hứng, là nghi thức yêu bản thân đúng cách.**</p>
+      <p>Từ cái bảng ghép tóc dở khóc dở cười đó, tôi ngộ ra một chân lý cực kỳ sâu sắc: 
+      Thay đổi kiểu tóc thực ra không đơn thuần là chuyện cắt bớt vài cọng tóc. Đó là một nguồn cảm hứng, là nghi thức "yêu bản thân" cực kỳ đúng cách và thực tế. Chúng ta cứ mải mê tìm kiếm những nguồn động lực to tát ở đâu xa, trong khi việc F5 lại diện mạo chính là cách đơn giản nhất, tốn ít tiền nhất mà hiệu quả kích hoạt lại sinh khí lại cực kỳ cao!</p>
       
-      <p>Làm mới diện mạo là cách tối giản nhất, chi phí cực thấp nhưng hiệu quả cực cao để bẻ gãy quán tính lười biếng của bộ não, tìm lại cảm giác sống động và sinh khí tươi mới để tiếp tục chinh chiến. Đôi khi, F5 bản thân chỉ cần bắt đầu từ việc dám bớt oai đi một chút, dám tự trào trước những phiên bản mới lạ của chính mình để thấy cuộc đời nhẹ nhõm và tràn đầy sinh khí hơn rất nhiều.</p>
-      
-      <p>Hôm nay, bạn có dám bắt đầu yêu bản thân từ một kiểu tóc mới?</p>
+      <p>Đôi khi, để cuộc sống bớt nhàm chán, chúng ta chỉ cần dám "bớt oai" đi một chút, dám tự trào trước những phiên bản mới lạ (và đôi khi là tấu hài) của chính mình. Nếu bạn cũng đang thấy cuộc sống hơi "lì", đầu óc hơi "mòn", hãy thử F5 bản thân ngay đi. Biết đâu bạn sẽ tìm thấy một phiên bản cực kỳ thú vị của mình thì sao?</p>
       
       <p>👉 Xem và thảo luận cùng Giang trên Facebook: <a href="https://www.facebook.com/123321avc/" target="_blank" rel="noopener noreferrer">123321avc</a></p>
       
       <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 32px 0;" />
       
-      <h3>HƯỚNG DẪN TẠO ẢNH MEME 15 KIỂU TÓC BẰNG GPT</h3>
-      <p>Để tạo được bức ảnh phân tích kiểu tóc hot trend hài hước như trên, bạn chỉ cần sử dụng ChatGPT (phiên bản GPT-4o hoặc GPT mới nhất có tích hợp DALL-E 3) và thực hiện theo hướng dẫn siêu đơn giản dưới đây:</p>
+      <h3>HƯỚNG DẪN TẠO ẢNH INFOGRAPHIC 15 KIỂU TÓC BẰNG GPT</h3>
+      <p>Để tạo được bức ảnh phân tích kiểu tóc hot trend cực kỳ nhất quán và hài hước như trên, bạn chỉ cần sử dụng ChatGPT (phiên bản GPT-4o hoặc Claude 3.5 Sonnet) và thực hiện theo hướng dẫn siêu đơn giản dưới đây:</p>
       
       <p><strong>Bước 1: Chuẩn bị ảnh gốc</strong></p>
       <ul>
-        <li>Chọn một bức ảnh chân dung nhìn thẳng, rõ mặt, ánh sáng tốt, thấy rõ kính (nếu đeo kính) và biểu cảm tự nhiên nhất của bạn.</li>
+        <li>Chọn một bức ảnh chân dung nhìn thẳng, rõ mặt, ánh sáng tốt, biểu cảm tự nhiên nhất của bạn.</li>
       </ul>
       
       <p><strong>Bước 2: Tải ảnh lên GPT và chạy Prompt mẫu</strong></p>
-      <p>Tải bức ảnh của bạn lên khung chat của GPT và sao chép chính xác Prompt dưới đây để yêu cầu AI phân tích và ghép tóc:</p>
+      <p>Tải bức ảnh của bạn lên khung chat của GPT, sau đó copy prompt bên dưới dán vào để AI tự động hoán đổi kiểu tóc trên gương mặt bạn nhé:</p>
       
-      <div style="background: rgba(255,255,255,0.05); border-left: 4px solid #10b981; padding: 16px; margin: 24px 0; border-radius: 4px; font-family: monospace; font-size: 0.9em; white-space: pre-wrap; word-break: break-all;">Create a high-quality “AI hairstyle analysis board” infographic using the uploaded face photo.
-IMPORTANT:
-Preserve EXACT facial identity from the uploaded image.
-Keep:
-glasses
-skin texture
-facial proportions
-smile
-Vietnamese male appearance
-DO NOT beautify or redesign the face.
-Face must remain recognizable in EVERY hairstyle variation.
-Change ONLY:
-hairstyle
-hair texture
-hair volume
-styling vibe
-hair color
-NOT the face.
+      <!-- HỘP CHỨA PROMPT CAO CẤP VỚI NÚT COPY -->
+      <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; margin: 24px 0; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
+        <!-- Header của code block -->
+        <div style="display: flex; justify-content: space-between; align-items: center; background: rgba(30, 41, 59, 0.8); padding: 10px 16px; border-bottom: 1px solid rgba(255, 255, 255, 0.08);">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #ef4444;"></span>
+            <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #f59e0b;"></span>
+            <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #10b981;"></span>
+            <span style="color: #94a3b8; font-family: monospace; font-size: 0.8rem; font-weight: 600; margin-left: 8px;">PROMPT: IDENTITY LOCK HAIRSTYLE</span>
+          </div>
+          <button onclick="window.copyKieuTocPrompt(this)" style="display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.15); border-radius: 6px; color: #94a3b8; padding: 6px 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 0.8rem; font-weight: 500; cursor: pointer; transition: all 0.2s ease; outline: none;" onmouseover="this.style.background='rgba(255,255,255,0.1)'; this.style.color='#ffffff';" onmouseout="this.style.background='rgba(255,255,255,0.05)'; this.style.color='#94a3b8';">
+            <svg style="width: 14px; height: 14px; fill: currentColor" viewBox="0 0 24 24">
+              <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+            </svg>
+            Copy Prompt
+          </button>
+        </div>
+        <!-- Nội dung code block -->
+        <div id="kieu-toc-prompt-text" style="padding: 16px 20px; font-family: 'Fira Code', 'Courier New', Courier, monospace; font-size: 0.85rem; line-height: 1.6; color: #cbd5e1; max-height: 400px; overflow-y: auto; white-space: pre-wrap; word-break: break-word; background: rgba(15, 23, 42, 0.4);">Create a high-quality “AI hairstyle analysis board” infographic using the uploaded face photo.
+
+CRITICAL IDENTITY LOCK:
+ALL hairstyle panels MUST use the EXACT SAME PERSON from the uploaded image.
+DO NOT generate a new person.
+DO NOT redesign the face.
+DO NOT beautify.
+DO NOT change:
+
+* eye shape
+* nose shape
+* mouth shape
+* jawline
+* forehead
+* ears
+* skin tone
+* facial proportions
+* facial expression
+* age
+* ethnicity
+
+Treat the uploaded face as a FIXED CHARACTER MODEL.
+Only swap hairstyles onto the SAME FACE.
+
+VERY IMPORTANT:
+The hairstyle panels must look like:
+“same person trying different hairstyles”
+NOT:
+“different people with similar faces”.
+
+Face consistency priority:
+100% facial consistency
+20% hairstyle creativity
+
+If hairstyle conflicts with identity consistency:
+KEEP THE ORIGINAL FACE.
+
+Keep identical across ALL 15 panels:
+
+* same camera angle
+* same facial expression
+* same lighting direction
+* same eye distance
+* same head shape
+* same skin texture
+* same neck proportions
+* same realism level
+
+ONLY change:
+
+* hairstyle
+* hair direction
+* hair texture
+* hair volume
+* fringe shape
+* side fade
+* styling vibe
+* hair color
+
+DO NOT:
+
+* change facial structure
+* generate sharper jawline
+* enlarge eyes
+* create Korean idol face
+* create different forehead
+* create different cheekbones
+* create different nose bridge
+* create different lips
+* create different identity
+
 STYLE:
-TikTok barber aesthetic.
-Chinese / Korean male hairstyle trend vibe.
-Fun, trendy, slightly meme-like but still premium.
-Realistic lighting.
-Clean white infographic background.
-Modern colorful sections.
-Social-media-ready.
-High detail.
+
+* realistic Vietnamese male
+* TikTok barber aesthetic
+* Chinese / Korean hairstyle trends
+* premium social infographic
+* realistic lighting
+* white clean background
+* colorful but tasteful sections
+* social-media-ready
+
 LAYOUT:
 Top section:
-Large portrait using original hairstyle.
-Big title:
-“PHÂN TÍCH KIỂU TÓC HOT TREND NAM TRUNG QUỐC”
+
+* original uploaded hairstyle
+* title:
+  “PHÂN TÍCH KIỂU TÓC HOT TREND NAM TRUNG QUỐC”
+
 Three sections:
-KIỂU HOT & PHÙ HỢP
-KIỂU ĐÁNG THỬ
-KHÔNG PHÙ HỢP
-Use SAME FACE with DIFFERENT hairstyles:
-HOT & PHÙ HỢP:
-textured crop
-side part 7/3
-comma hair
-taper fade
-two block 6/4
-mullet layer
-ĐÁNG THỬ:
-messy wave
-ivy league
-quiff Hàn Quốc
-french crop
-middle part
-undercut vuốt ngược
-KHÔNG PHÙ HỢP:
-mái dài ép thẳng
-xoăn xù mì
-mohican quá cao
-đầu đinh
-mái dày che mặt
-two block mái bằng
+
+1. KIỂU HOT & PHÙ HỢP
+2. KIỂU ĐÁNG THỬ
+3. KHÔNG PHÙ HỢP
+
+Generate hairstyle variations using the SAME FACE ONLY.
+
+Hairstyles:
+
+* textured crop
+* side part 7/3
+* comma hair
+* taper fade
+* two block 6/4
+* mullet layer
+* messy wave
+* ivy league
+* quiff Hàn Quốc
+* french crop
+* middle part
+* undercut vuốt ngược
+* mái dài ép thẳng
+* xoăn xù mì
+* mohican quá cao
+
+Hair color variations:
+
+* natural black
+* dark brown
+* ash gray
+* muted silver
+* light brown
+
 IMPORTANT:
-Every hairstyle MUST look visually different.
-Change:
-hair direction
-silhouette
-side volume
-fringe shape
-texture
-styling
-hair color
-Avoid repeating the same hairstyle shape.
-Use varied hair colors:
-natural black
-dark brown
-ash gray
-muted silver
-light brown
-Visual vibe references:
-modern Chinese TikTok barber
-Korean actor hairstyle
-trendy Asian fashion lookbook
+Hairstyles must look visually different from each other.
+BUT the FACE must remain identical in every panel.
+
 Aspect ratio: 3:4
 Ultra detailed.
 Realistic.
 Clean infographic composition.</div>
+      </div>
       
       <p><strong>Bước 3: Tải ảnh kết quả về và chia sẻ</strong></p>
-      <p>GPT sẽ tự động xử lý và trả về cho bạn một tấm bảng infographic phân tích kiểu tóc 3 nhóm siêu bảnh bao nhưng cũng không kém phần hài hước, giữ nguyên vẹn 100% gương mặt thực của bạn. Bạn chỉ cần tải về và đem đi F5 bản thân hoặc khoe với bạn bè!</p>
+      <p>GPT sẽ tự động xử lý và trả về cho bạn một tấm bảng infographic phân tích kiểu tóc cực kì bảnh bao nhưng cũng không kém phần hài hước, giữ nguyên vẹn 100% gương mặt thực của bạn. Bạn chỉ cần tải về đem đi F5 bản thân hoặc đi khoe với bạn bè thôi!</p>
     `
   }
 }
+
+// ─── DYNAMIC COPY PROMPT LOGIC ───
+window.copyKieuTocPrompt = function(btn) {
+  const text = document.getElementById('kieu-toc-prompt-text').innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    btn.innerHTML = `<svg style="width:14px;height:14px;fill:#10b981;vertical-align:middle;margin-right:4px;" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Đã copy!`;
+    btn.style.color = '#10b981';
+    btn.style.borderColor = '#10b981';
+    setTimeout(() => {
+      btn.innerHTML = `<svg style="width:14px;height:14px;fill:currentColor;vertical-align:middle;margin-right:4px;" viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg> Copy Prompt`;
+      btn.style.color = '#94a3b8';
+      btn.style.borderColor = 'rgba(255,255,255,0.15)';
+    }, 2000);
+  }).catch(err => {
+    console.error('Lỗi copy:', err);
+    // Fallback: select and let the user copy manually
+    const range = document.createRange();
+    range.selectNode(document.getElementById('kieu-toc-prompt-text'));
+    window.getSelection().removeAllRanges();
+    window.getSelection().addRange(range);
+    alert('Không thể copy tự động. Hệ thống đã bôi đen đoạn Prompt, bạn chỉ cần nhấn Ctrl+C để copy nhé!');
+  });
+}
+
 
 // ─── DYNAMIC ESSAY READER LOGIC ───
 const essayReader = document.getElementById('essay-reader')
