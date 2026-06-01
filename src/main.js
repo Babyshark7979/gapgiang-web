@@ -168,7 +168,7 @@ const essayData = {
       <p>Sau 21 ngày đập đi xây lại, tôi nhận ra vết xe đổ chí mạng nhất của những người làm hệ thống: <strong>Nhét dữ liệu vào trước khi xây móng cấu trúc.</strong></p>
 
       <div style="margin: 24px 0; text-align: center;">
-        <img src="/media/ai_fridge_system.png" alt="AI Fridge vs Structured Archive" style="max-width: 100%; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin: 0 auto;" loading="lazy" />
+        <img src="/media/ai_fridge_system_new.jpg" alt="AI Fridge vs Structured Archive" style="max-width: 100%; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin: 0 auto;" loading="lazy" />
       </div>
 
       <p>Nó y hệt như việc bạn bỏ cả trăm triệu mua một cái tủ lạnh Side-by-side nhập khẩu, rồi tống hỗn lốn thịt cá sống, hải sản tanh rình nằm chung với hoa quả, sữa tươi. Không phân vùng, không khay hộp. Vài ngày sau mở tủ ra, một mùi thiu thối bốc lên.</p>
