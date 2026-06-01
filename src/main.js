@@ -24,7 +24,7 @@ if (hamburger && navMenu) {
 // â”€â”€â”€ SUBSCRIBE HANDLER (ZALO REDIRECT INTEGRATION) â”€â”€â”€
 // Báº¡n cÃ³ thá»ƒ dÃ¡n link Google Sheet Script, Discord Webhook, Telegram Bot hoáº·c Make/Zapier Webhook vÃ o Ä‘Ã¢y
 const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbxxYr2yCd3CndFLgu-OzvHbc4_hM8oQHL45fhJz78n3lsPa8YxhSKzTh7iG1x6KYck/exec'; 
-const ZALO_CONTACT_URL = 'https://zalo.me/0888966666'; // Link Zalo cÃ¡ nhÃ¢n cá»§a Giang (nháº¥p sáº½ chat trá»±c tiáº¿p)
+const ZALO_CONTACT_URL = 'https://zalo.me/0868797777'; // Link Zalo cÃ¡ nhÃ¢n cá»§a Giang (nháº¥p sáº½ chat trá»±c tiáº¿p)
 
 window.handleSubscribe = async function (e) {
   e.preventDefault()
@@ -791,4 +791,5 @@ window.addEventListener('hashchange', () => {
     closeEssay()
   }
 })
+
 
