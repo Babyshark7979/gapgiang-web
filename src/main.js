@@ -154,6 +154,44 @@ sections.forEach((section) => observer.observe(section))
 
 // ─── ESSAY DATA (EMPOWERMENT PHILOSOPHY) ───
 const essayData = {
+  "brain2-obsidian": {
+    title: "Tôi mất 21 ngày chỉ để nhận ra: AI ngu hơn mình tưởng, và App xịn cũng chỉ là cái tủ lạnh",
+    tag: "Tư duy hệ thống",
+    date: "01 Tháng 6, 2026",
+    content: `
+      <p>Nhìn cái sơ đồ "Bộ não thứ 2" (Brain2) kết nối mượt mà như dải ngân hà ở dưới, ít ai biết tôi vừa phải trải qua một cuộc hành xác thực sự.</p>
+
+      <p>Lần đầu tiên tôi lọ mọ setup hệ thống này, tôi mất đúng 15 ngày. Thất bại.<br>
+      Đập đi xây lại lần 2, mất 5 ngày. Vẫn rối.<br>
+      Đến lần thứ 3, tôi chỉ mất đúng 1 ngày để mọi thứ gọn gàng, sắc nét.</p>
+
+      <p>Sau 21 ngày đập đi xây lại, tôi nhận ra vết xe đổ chí mạng nhất của những người làm hệ thống: <strong>Nhét dữ liệu vào trước khi xây móng cấu trúc.</strong></p>
+
+      <div style="margin: 24px 0; text-align: center;">
+        <img src="/media/ai_fridge_system.png" alt="AI Fridge vs Structured Archive" style="max-width: 100%; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin: 0 auto;" loading="lazy" />
+      </div>
+
+      <p>Nó y hệt như việc bạn bỏ cả trăm triệu mua một cái tủ lạnh Side-by-side nhập khẩu, rồi tống hỗn lốn thịt cá sống, hải sản tanh rình nằm chung với hoa quả, sữa tươi. Không phân vùng, không khay hộp. Vài ngày sau mở tủ ra, một mùi thiu thối bốc lên.</p>
+
+      <p>Dữ liệu cũng y chang vậy. Nhét bừa bãi vào một ứng dụng xịn thì nó biến thành Bãi rác kỹ thuật số.</p>
+
+      <p>Và đây là phần đau đớn nhất: <strong>Sự ngây thơ khi dùng AI.</strong></p>
+
+      <p>Nhiều người lầm tưởng cứ bơm thật nhiều file tài liệu, ném nguyên cuốn sách vào là AI sẽ tự thông minh ra. Sai lầm. Bản chất của AI là nó đọc lướt (skimming). Bạn ném cho nó một bãi rác không phân loại, nó sẽ luôn luôn bỏ sót (miss) dữ liệu.</p>
+
+      <p>Sau hàng chục lần bực mình vì con AI quên trước quên sau, tôi ngộ ra một chân lý: <strong>Đừng dùng lời nói nhẹ nhàng với AI. Hãy dùng Luật.</strong></p>
+
+      <p>Tôi phải thiết lập hẳn một "Bộ luật hình sự" cho con AI trong hệ thống Brain2 của mình. Phải có quy tắc rõ ràng, có các "khung, khoản" nghiêm ngặt để khép tội và ép nó tuân thủ từng ly từng tí. Từ lúc áp dụng "Luật hình sự" đó, AI mới thực sự trở thành một cỗ máy gia tốc ngoan ngoãn.</p>
+
+      <p><strong>Bài học rút ra là gì?</strong></p>
+      <ol style="margin-left: 20px; margin-bottom: 24px;">
+        <li style="margin-bottom: 8px;">Tư duy hệ thống đi trước, Công cụ đi sau.</li>
+        <li style="margin-bottom: 8px;">Cấu trúc dữ liệu quan trọng hơn khối lượng dữ liệu.</li>
+        <li style="margin-bottom: 8px;">Đừng hy vọng AI tự thông minh lên nếu người làm chủ hệ thống chưa biết cách ra luật.</li>
+      </ol>
+      <p>Hệ thống Brain2 của tôi đã bắt đầu vào guồng. Anh em nào đang bị "Ngộ độc dữ liệu" hoặc đang chật vật cãi nhau với AI mỗi ngày không? Chấm một cái đi, tôi sẽ chia sẻ cái "Bộ luật hình sự" mà tôi đang dùng để trị bọn AI này!</p>
+    `
+  },
   "don-rac-ai": {
     title: "Hướng dẫn dùng AI Agent tự động dọn rác, chống đơ máy tính trong 15 phút",
     tag: "Tự động hóa",
